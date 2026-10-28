@@ -1,0 +1,10 @@
+{
+  "name": "billstride",
+  "version": "1.0.0",
+  "description": "Create, send and track invoices from a conversation: reuse last month's invoice, chase overdue payments, see revenue, and export e-invoices (ZUGFeRD, XRechnung) and DATEV.",
+  "mcpServers": {
+    "billstride": {
+      "httpUrl": "https://billstride.com/api/mcp"
+    }
+  }
+}
